@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+dsss_homework_2.egg-info/PKG-INFO
+dsss_homework_2.egg-info/SOURCES.txt
+dsss_homework_2.egg-info/dependency_links.txt
+dsss_homework_2.egg-info/top_level.txt
+math_quiz/__init__.py
+math_quiz/math_quiz.py
+math_quiz/tests_math_quiz.py

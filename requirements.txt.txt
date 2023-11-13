@@ -1,0 +1,3 @@
+It is required to install git.
+To do that you must go to https://git-scm.com/ and install git according to the os you have.
+and proceed with cmd propmt with further steps.
